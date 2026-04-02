@@ -1,5 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Rohit Pawar
 
+🚀 About Me
+
+🎓 Electronics & Computer Engineering Student
+💡 Passionate about solving real-world problems
+🛠️ Building impactful projects like MEDIMATE
+⚡ Strong believer in execution over ideas
+
+🧑‍💻 Tech Stack
+
+## 🧑‍💻 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,cpp,git,github" />
+</p>
 <!--
 **RohitPawar2707/RohitPawar2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
