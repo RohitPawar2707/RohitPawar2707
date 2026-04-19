@@ -1,8 +1,27 @@
-<!-- Typing Animation Header -->
+<!-- 🌊 Animated Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Pawar;Software+Developer;Building+Real+World+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=200&section=header&text=Rohit%20Pawar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Developer;React+Native+%7C+Firebase+%7C+Backend;Building+Real+World+Applications" />
+</p>
+
+<!-- 🔗 Social Icons -->
+<p align="center">
+  <a href="mailto:rohitpawar7058@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/RohitPawar2707">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+<!-- 👀 Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -16,11 +35,9 @@
 ⚡ Focused on building scalable, real-world applications  
 
 - Strong in **React Native, Firebase, and backend systems**  
-- Experience developing **full-stack mobile applications**  
+- Experience building **full-stack mobile applications**  
 - Smart India Hackathon **Finalist (AICTE – IKS)**  
-- Focused on **clean architecture, performance, and usability**  
-
-> 💬 *"Talk is cheap, show me the code."* — Linus Torvalds  
+- Focused on **clean architecture & performance**  
 
 ---
 
@@ -36,44 +53,43 @@
 
 ### 🩺 MEDIMATE – Smart Medicine Reminder System  
 
-- Built a **cross-platform mobile application** using React Native  
-- Implemented **intelligent notification system** with fail-safe reminders  
-- Integrated **ESP8266/STM32 with Firebase** for real-time alerts  
-- Designed for **real-world healthcare reliability**  
+- Cross-platform mobile app using React Native  
+- Smart notification system with fail-safe reminders  
+- Hardware integration (ESP8266 + Firebase)  
+- Built for real-world healthcare use  
 
-🔗 https://github.com/RohitPawar2707/MedimateApp.git  
+🔗 https://github.com/RohitPawar2707/MedimateApp  
 
 ---
 
 ## 📌 Projects  
 
 ### 💰 SpendX – Personal Finance Tracker  
-- Developed secure finance tracking with **authentication and RLS**  
-- Built dashboards for **spending insights and analysis**  
-- Used **Supabase + PostgreSQL** for scalable backend  
+- Secure authentication + RLS  
+- Dashboard for expense tracking  
+- Backend with Supabase + PostgreSQL  
 
-### 🔤 AksharSetu – Signboard Transliteration System  
-*(Smart India Hackathon Finalist)*  
-- Built mobile UI using **Flutter**  
-- Integrated **Tesseract OCR** for real-time text extraction  
-- Delivered working prototype under **hackathon constraints**  
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&hide_border=true&theme=github-dark" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&langs_count=6&theme=github_dark" height="150"/>
-</p>
+### 🔤 AksharSetu – Transliteration System  
+- Flutter-based UI  
+- OCR using Tesseract  
+- Built during Smart India Hackathon  
 
 ---
 
-## 📈 Contribution Activity  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&theme=github-dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=github-compact&hide_border=true" />
@@ -81,20 +97,12 @@
 
 ---
 
-## 📌 Developer Summary  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohitPawar2707&theme=github_dark" />
-</p>
-
----
-
 ## 🏆 Achievements  
 
-- 🥇 Smart India Hackathon Finalist (AICTE – IKS)  
-- 👨‍💻 Core Team Member – Google Developer Groups Nashik  
-- 🎯 Secretary, SVIT Nashik (2025–2026)  
-- 👥 President, EC Department  
+- 🥇 Smart India Hackathon Finalist  
+- 👨‍💻 GDG Nashik Core Member  
+- 🎯 Secretary – SVIT Nashik  
+- 👥 President – EC Department  
 
 ---
 
@@ -104,24 +112,26 @@
   <a href="mailto:rohitpawar7058@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
     <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RohitPawar2707" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Open to internships, collaborations, and software development opportunities</b>
+  <b>Open to internships and software development opportunities</b>
 </p>
 
 ---
 
 ## ⚡ Philosophy  
 
-💡 Build real-world solutions, not just practice projects  
-🚀 Execution and consistency drive growth  
-🔥 Focus on impact over hype  
+💡 Build > Talk  
+🚀 Execution over ideas  
+🔥 Consistency wins  
 
 ---
+
+<!-- 🌊 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0A66C2&height=120&section=footer"/>
+</p>
