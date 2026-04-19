@@ -107,12 +107,25 @@ https://github.com/RohitPawar2707/MedimateApp.git
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/RohitPawar2707" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-informational?style=flat-square" />
+</p>
+
+<p align="center">
+  💼 Always open to collaboration, internships, and developer opportunities  
 </p>
 
 ---
