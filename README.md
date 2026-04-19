@@ -9,13 +9,13 @@
 ## 🚀 About Me  
 
 🎓 Electronics & Computer Engineering Student  
-💻 Aspiring Software Developer (Mobile + Backend)  
-⚡ Focused on building scalable, real-world applications  
+💻 Software Developer (Mobile + Backend)  
+⚡ Building scalable, real-world applications  
 
-- 🔹 Strong in React Native, Firebase & modern backend systems  
-- 🔹 Experience building full-stack mobile applications  
-- 🔹 Smart India Hackathon Finalist (Team Project)  
-- 🔹 Believe in execution, consistency, and clean code  
+- Strong in **React Native, Firebase, and backend systems**  
+- Experience developing **full-stack mobile applications**  
+- Smart India Hackathon **Finalist (AICTE – IKS)**  
+- Focused on **clean architecture, performance, and usability**  
 
 > 💬 *"Talk is cheap, show me the code."* — Linus Torvalds  
 
@@ -24,7 +24,7 @@
 ## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,firebase,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,firebase,postgres,git,github,vscode&perline=5" />
 </p>
 
 ---
@@ -33,46 +33,48 @@
 
 ### 🩺 MEDIMATE – Smart Medicine Reminder System  
 
-- 📱 Built a cross-platform mobile app using React Native  
-- 🔔 Implemented smart notifications with fail-safe reminders  
-- 🔌 Integrated ESP8266/STM32 with Firebase for real-time alerts  
-- 🧠 Designed for real-world healthcare reliability  
+- Built a **cross-platform mobile application** using React Native  
+- Implemented **intelligent notification system** with fail-safe reminders  
+- Integrated **ESP8266/STM32 with Firebase** for real-time alerts  
+- Designed for **reliability in real-world healthcare scenarios**  
 
-🔗 **Project Link:** *https://github.com/RohitPawar2707/MedimateApp.git*  
+🔗 **Project Link:**  
+https://github.com/RohitPawar2707/MedimateApp.git  
 
 ---
 
 ## 📌 Other Projects  
 
 ### 💰 SpendX – Personal Finance Tracker  
-- Developed secure finance tracking with authentication & RLS  
-- Built dashboards to visualize spending behavior  
-- Used Supabase + PostgreSQL for scalable backend  
+- Developed secure finance tracking with **authentication and RLS**  
+- Built dashboards for **spending insights and analysis**  
+- Used **Supabase + PostgreSQL** for scalable backend  
 
 ### 🔤 AksharSetu – Signboard Transliteration System  
 *(Smart India Hackathon Finalist)*  
-- Built frontend using Flutter  
-- Integrated Tesseract OCR for real-time text extraction  
-- Collaborated in a fast-paced hackathon environment  
+- Built mobile UI using **Flutter**  
+- Integrated **Tesseract OCR** for real-time text extraction  
+- Delivered working prototype in **high-pressure hackathon environment**  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RohitPawar2707&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=minimal&hide_border=true" />
 </p>
 
 ---
@@ -101,8 +103,8 @@
 
 ## ⚡ Philosophy  
 
-💡 I focus on **building, not just learning**  
-🚀 Turning ideas into real-world applications  
-🔥 Consistency > Motivation  
+💡 Build real-world solutions, not just practice projects  
+🚀 Execution and consistency drive growth  
+🔥 Focus on impact over hype  
 
 ---
