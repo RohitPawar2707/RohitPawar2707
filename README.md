@@ -104,32 +104,31 @@ https://github.com/RohitPawar2707/MedimateApp.git
 
 ---
 
-## 🤝 Connect With Me  
+## 🤝 Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/RohitPawar2707" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Code%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-India-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-0366d6?style=flat" />
+  <img src="https://img.shields.io/badge/Location-India-6f42c1?style=flat" />
 </p>
 
 <p align="center">
-  💼 Always open to collaboration, internships, and developer opportunities  
+  <b>Available for internships, collaborations, and impactful software development roles</b>
 </p>
 
 ---
-
 ## ⚡ Philosophy  
 
 💡 Build real-world solutions, not just practice projects  
