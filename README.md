@@ -1,26 +1,16 @@
-<!-- ===== Header (Clean + Premium) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:1f6feb&height=160&section=header&text=Rohit%20Pawar&fontSize=38&fontColor=ffffff" />
+  <h1 align="center">Rohit Pawar</h1>
+  <p align="center">Software Developer • React Native • Backend</p>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1200&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Developer;React+Native+%7C+Backend;Building+Real-World+Applications" />
+  <a href="mailto:rohitpawar7058@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">LinkedIn</a> •
+  <a href="https://github.com/RohitPawar2707">GitHub</a>
 </p>
 
 <p align="center">
-  <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RohitPawar2707">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=flat" />
 </p>
 
 ---
