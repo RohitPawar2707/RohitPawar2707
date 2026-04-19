@@ -1,16 +1,23 @@
+<!-- ===== Animated Gradient Header ===== -->
 <p align="center">
-  <h1 align="center">Rohit Pawar</h1>
-  <p align="center">Software Developer • React Native • Backend</p>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Rohit%20Pawar&fontSize=40&fontColor=0A66C2&animation=fadeIn" />
 </p>
 
+<!-- ===== Typing Animation (Subtle Identity) ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Developer;React+Native+%7C+Backend;Building+Real+World+Applications" />
+</p>
+
+<!-- ===== Clean Contact Row ===== -->
 <p align="center">
   <a href="mailto:rohitpawar7058@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">LinkedIn</a> •
   <a href="https://github.com/RohitPawar2707">GitHub</a>
 </p>
 
+<!-- ===== Profile Views ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=flat&color=0A66C2" />
 </p>
 
 ---
@@ -64,12 +71,12 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_title=true&hide_border=true&theme=github_dark" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&theme=github-dark&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_border=true&theme=default" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&hide_border=true" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&theme=github_dark" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true" height="140"/>
 </p>
 
 ---
@@ -77,7 +84,7 @@
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=github&hide_border=true" />
 </p>
 
 ---
@@ -95,26 +102,26 @@
 
 <p align="center">
   <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Open to internships and software development opportunities</b>
+  Open to internships and software development opportunities
 </p>
 
 ---
 
 ## ⚡ Philosophy  
 
-Build real solutions. Stay consistent. Focus on impact.
+> Build real solutions. Stay consistent. Focus on impact.
 
 ---
 
-<!-- ===== Footer ===== -->
+<!-- ===== Subtle Animated Footer ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:0A66C2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=footer&animation=fadeIn" />
 </p>
