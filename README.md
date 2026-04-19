@@ -85,6 +85,16 @@ https://github.com/RohitPawar2707/MedimateApp.git
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohitPawar2707&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RohitPawar2707&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RohitPawar2707&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohitPawar2707&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RohitPawar2707&theme=github_dark&utcOffset=5.5" />
+</p>
+
 ## 🏆 Achievements  
 
 - 🥇 Smart India Hackathon Finalist (AICTE – IKS)  
