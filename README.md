@@ -109,11 +109,12 @@
 
 ## ⚡ Philosophy  
 
-Build real solutions. Stay consistent. Focus on impact.
+<p align="center">
+  <i>“Build real solutions. Stay consistent. Focus on impact.”</i>
+</p>
+
+<p align="center">
+  <sub>— Rohit Pawar</sub>
+</p>
 
 ---
-
-<!-- ===== FOOTER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:0A66C2&height=100&section=footer"/>
-</p>
