@@ -61,12 +61,12 @@ https://github.com/RohitPawar2707/MedimateApp.git
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RohitPawar2707&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&hide_border=true&theme=github-dark" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&langs_count=6&theme=github_dark" height="150"/>
 </p>
 
 ---
@@ -74,10 +74,16 @@ https://github.com/RohitPawar2707/MedimateApp.git
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=github-compact&hide_border=true" />
 </p>
 
 ---
+
+## 📌 Profile Summary  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohitPawar2707&theme=github_dark" />
+</p>
 
 ## 🏆 Achievements  
 
