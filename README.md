@@ -38,7 +38,7 @@
 - 🔌 Integrated ESP8266/STM32 with Firebase for real-time alerts  
 - 🧠 Designed for real-world healthcare reliability  
 
-🔗 **Project Link:** *(https://github.com/RohitPawar2707/MedimateApp.git)*  
+🔗 **Project Link:** *https://github.com/RohitPawar2707/MedimateApp.git*  
 
 ---
 
