@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Rohit Pawar  
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Pawar;Software+Developer;Building+Real+World+Applications" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,7 +13,7 @@
 
 🎓 Electronics & Computer Engineering Student  
 💻 Software Developer (Mobile + Backend)  
-⚡ Building scalable, real-world applications  
+⚡ Focused on building scalable, real-world applications  
 
 - Strong in **React Native, Firebase, and backend systems**  
 - Experience developing **full-stack mobile applications**  
@@ -24,7 +27,7 @@
 ## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,firebase,postgres,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,firebase,postgres,git,github,vscode" />
 </p>
 
 ---
@@ -36,14 +39,13 @@
 - Built a **cross-platform mobile application** using React Native  
 - Implemented **intelligent notification system** with fail-safe reminders  
 - Integrated **ESP8266/STM32 with Firebase** for real-time alerts  
-- Designed for **reliability in real-world healthcare scenarios**  
+- Designed for **real-world healthcare reliability**  
 
-🔗 **Project Link:**  
-https://github.com/RohitPawar2707/MedimateApp.git  
+🔗 https://github.com/RohitPawar2707/MedimateApp.git  
 
 ---
 
-## 📌 Other Projects  
+## 📌 Projects  
 
 ### 💰 SpendX – Personal Finance Tracker  
 - Developed secure finance tracking with **authentication and RLS**  
@@ -54,7 +56,7 @@ https://github.com/RohitPawar2707/MedimateApp.git
 *(Smart India Hackathon Finalist)*  
 - Built mobile UI using **Flutter**  
 - Integrated **Tesseract OCR** for real-time text extraction  
-- Delivered working prototype in **high-pressure hackathon environment**  
+- Delivered working prototype under **hackathon constraints**  
 
 ---
 
@@ -79,21 +81,13 @@ https://github.com/RohitPawar2707/MedimateApp.git
 
 ---
 
-## 📌 Profile Summary  
+## 📌 Developer Summary  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohitPawar2707&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RohitPawar2707&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RohitPawar2707&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohitPawar2707&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RohitPawar2707&theme=github_dark&utcOffset=5.5" />
-</p>
+---
 
 ## 🏆 Achievements  
 
@@ -108,27 +102,22 @@ https://github.com/RohitPawar2707/MedimateApp.git
 
 <p align="center">
   <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-pawar-969112277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/RohitPawar2707" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat" />
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-0366d6?style=flat" />
-  <img src="https://img.shields.io/badge/Location-India-6f42c1?style=flat" />
-</p>
-
-<p align="center">
-  <b>Available for internships, collaborations, and impactful software development roles</b>
+  <b>Open to internships, collaborations, and software development opportunities</b>
 </p>
 
 ---
+
 ## ⚡ Philosophy  
 
 💡 Build real-world solutions, not just practice projects  
