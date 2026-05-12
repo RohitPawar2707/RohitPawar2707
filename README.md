@@ -1,297 +1,288 @@
+# 🚀 Ultra Premium GitHub Profile README for Rohit Pawar
+
+Copy the entire code below into the `README.md` file of your special repository named `RohitPawar2707`.
+
+---
+
 ````markdown
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   ANIMATED HEADER                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=Rohit%20Pawar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Backend%20Engineer&descAlignY=55&descSize=18" />
+<!-- ================= HERO BANNER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Rohit%20Pawar&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20•%20React%20Native%20•%20Backend%20Engineer&descAlignY=60&descSize=22" />
 
-<!-- TYPING SVG -->
+<!-- ================= TYPING ANIMATION ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Real-World+Software+Solutions;React+Native+%7C+Node.js+%7C+PostgreSQL;Smart+India+Hackathon+Finalist;Electronics+%26+Computer+Engineering+Student;Open+to+Internships+and+Software+Roles" />
+
+<br/><br/>
+
+<!-- ================= CONTACT BADGES ================= -->
+<a href="mailto:rohitpawar7058@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://github.com/RohitPawar2707">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=Building+Real+Solutions+%F0%9F%9A%80;Mobile+%2B+Backend+Developer+%F0%9F%8C%90;Smart+India+Hackathon+Finalist+%F0%9F%8F%86;React+Native+%7C+Firebase+%7C+PostgreSQL;Open+to+Opportunities+%F0%9F%99%8C" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-RohitPawar2707-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- BADGES ROW -->
-<p>
-  <img src="https://img.shields.io/badge/Electronics%20%26%20CS-Engineering-7AA2F7?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-9ECE6A?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-BB9AF7?style=for-the-badge&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/RohitPawar2707?style=for-the-badge&color=10B981&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/RohitPawar2707?style=for-the-badge&color=F59E0B&labelColor=111827" />
 
-<p>
-  <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rohitpawar7058-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/RohitPawar2707">
-    <img src="https://img.shields.io/badge/GitHub-RohitPawar2707-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=flat-square&color=7AA2F7&label=Profile+Views" />
-</p>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-Name     : Rohit Pawar
-Location : Maharashtra, India
-Degree   : Electronics & Computer Engineering
-Role     : Software Developer (Mobile + Backend)
-Focus    : Clean architecture · Performance · Impact
+Name: Rohit Pawar
+Location: Maharashtra, India
+Education: B.E. in Electronics & Computer Engineering
+Role: Software Developer (Mobile + Backend)
 
-Interests:
-  - Cross-platform Mobile Apps (React Native)
-  - Scalable Backend Systems
-  - Hardware-Software Integration
-  - Hackathon Problem Solving
+Focus Areas:
+  - React Native Development
+  - Backend Engineering
+  - PostgreSQL & Supabase
+  - Embedded Systems
+  - Semiconductor Technology
+
+Achievements:
+  - Smart India Hackathon Finalist
+  - GDG Nashik Core Team Member
+  - Secretary, SVIT Nashik
+  - President, EC Department
 
 Philosophy: "Build real solutions. Stay consistent. Focus on impact."
 ````
 
-<br clear="right"/>
+* 🚀 Building scalable mobile and backend applications
+* 🧠 Passionate about clean architecture and performance
+* 🔬 Interested in embedded systems and semiconductor engineering
+* 💼 Open to internships and software development opportunities
+
+<br clear="right" />
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                    TECH STACK                         -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## ⚙️ Tech Stack & Tools
+# ⚙️ Tech Stack
 
 <div align="center">
 
-### 📱 Mobile & Frontend
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### 🔧 Backend & Database
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=Firebase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-
-### 🛠 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge\&logo=expo\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,supabase,postgres,c,cpp,git,github,vscode,expo,flutter&perline=5" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                  FEATURED PROJECT                     -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Project
+# 🚀 Featured Project
 
 <div align="center">
 
-### 🩺 MEDIMATE — Smart Medicine Reminder System
+## 🩺 MediMate — Smart Medicine Reminder System
 
-[![MediMate](https://img.shields.io/badge/🔗_View_Project-MedimateApp-7AA2F7?style=for-the-badge)](https://github.com/RohitPawar2707/MedimateApp)
- 
-[![Stars](https://img.shields.io/github/stars/RohitPawar2707/MedimateApp?style=for-the-badge\&color=9ECE6A)](https://github.com/RohitPawar2707/MedimateApp/stargazers)
+<p>
+  <a href="https://github.com/RohitPawar2707/MedimateApp">
+    <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/stars/RohitPawar2707/MedimateApp?style=for-the-badge&color=10B981" />
+</p>
 
 </div>
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏥  MEDIMATE — Healthcare Reliability at Your Fingertips           │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  📱  Cross-platform mobile app  →  React Native + Expo              │
-│  🔔  Fail-safe intelligent notification system                      │
-│  🔌  Hardware integration  →  ESP8266 + Firebase Realtime DB        │
-│  🎨  Professional UI  →  Clarity Blue + Medical Teal design system  │
-│  🔒  Secure & offline-first architecture                            │
-│  🌐  OpenFDA API integration for drug interactions                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────┐
+│ 🏥 MEDIMATE — Smart Healthcare Reliability Platform          │
+├───────────────────────────────────────────────────────────────┤
+│ 📱 React Native mobile application                           │
+│ 🔔 Intelligent medicine reminder system                      │
+│ 🔌 ESP8266 + Firebase hardware integration                   │
+│ 👨‍👩‍👧 Caregiver notifications                                │
+│ 🌐 OpenFDA drug interaction integration                      │
+│ 🔒 Secure and offline-first architecture                     │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
+# 📌 Other Projects
 
-<!--                   OTHER PROJECTS                      -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📌 Other Projects
-
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 SpendX — Finance Tracker
+## 💰 SpendX
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+**Personal Finance Tracker**
 
-* 🔐 Secure auth with **Row-Level Security (RLS)**
-* 📊 Expense dashboard & analytics
-* 🏗 Backend: **Supabase + PostgreSQL**
+* 🔐 Secure authentication with Row-Level Security (RLS)
+* 📊 Expense dashboard and analytics
+* 🗄️ Built with Supabase + PostgreSQL
 
 </td>
 <td width="50%" valign="top">
 
-### 🔤 AksharSetu — Transliteration System
+## 🔤 AksharSetu
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![OCR](https://img.shields.io/badge/Tesseract-OCR-important?style=flat-square)
+**OCR-Based Transliteration System**
 
-* 🤖 **Flutter + Tesseract OCR** powered
-* 🖼 Extracts text from real-world images
-* 🏆 Built during **Smart India Hackathon**
+* 📸 Extracts text from real-world images
+* 🤖 Built with Flutter + Tesseract OCR
+* 🏆 Developed during Smart India Hackathon
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                  GITHUB STATS                        -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Insights
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=9ECE6A&text_color=FFFFFF&ring_color=BB9AF7" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitPawar2707&theme=tokyonight&hide_border=true" />
 
-  
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RohitPawar2707&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=9ECE6A&sideLabels=9ECE6A&dates=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=FFFFFF" height="130"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--               CONTRIBUTION GRAPH                      -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&bg_color=0D1117&color=7AA2F7&line=9ECE6A&point=FFFFFF&area=true&area_color=7AA2F720&hide_border=true&custom_title=Rohit's%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--               ACHIEVEMENTS                            -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements & Leadership
+# 🏆 GitHub Trophies
 
 <div align="center">
-
-| 🏅 Achievement                          | 📋 Details                                                        |
-| :-------------------------------------- | :---------------------------------------------------------------- |
-| 🥇 **Smart India Hackathon Finalist**   | National-level government hackathon — top teams from across India |
-| 👨‍💻 **Core Team Member — GDG Nashik** | Google Developer Group, Nashik chapter                            |
-| 🎯 **Secretary — SVIT Nashik**          | Student body leadership at institute level                        |
-| 👥 **President — EC Department**        | Led the Electronics & Computer department student council         |
-
+<img src="https://github-profile-trophy.vercel.app/?username=RohitPawar2707&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
+# 🏅 Achievements & Leadership
 
-<!--                    CONNECT                            -->
+| Achievement                       | Description                                    |
+| --------------------------------- | ---------------------------------------------- |
+| 🥇 Smart India Hackathon Finalist | National-level innovation competition finalist |
+| 👨‍💻 GDG Nashik Core Team Member | Organized and contributed to developer events  |
+| 🎯 Secretary – SVIT Nashik        | Student leadership and event management        |
+| 👥 President – EC Department      | Led department-level student activities        |
+| 🚴 Endurance Cyclist              | Completed 115 km cycling ride                  |
 
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
-## 🤝 Let's Connect
+# 🎯 2026 Goals
+
+* 🚀 Build production-ready full-stack applications
+* 📱 Master advanced React Native architecture
+* ☁️ Strengthen backend engineering skills
+* 🔌 Deepen embedded systems expertise
+* 🏭 Explore semiconductor and VLSI design
+* 💼 Secure top internship opportunities
+
+---
+
+# 🌱 Currently Learning
+
+```text
+React Native Advanced Patterns
+Node.js API Development
+PostgreSQL & Supabase
+Verilog HDL
+Embedded Systems
+System Design Fundamentals
+```
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:rohitpawar7058@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rohitpawar7058%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-  
-
 <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-  
-
 <a href="https://github.com/RohitPawar2707">
-  <img src="https://img.shields.io/badge/GitHub-RohitPawar2707-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-> **🎯 Open to internships and full-time software development opportunities**
->
-> *Passionate about building solutions that create real-world impact.*
-> *Let's build something meaningful together.*
+### 💼 Open to Internship and Software Development Opportunities
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                    FOOTER                             -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
+# ⚡ Quote
 
 <div align="center">
 
-*"Build real solutions. Stay consistent. Focus on impact."*
-
-<br/>
-
-**— Rohit Pawar**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=100&section=footer" />
+> *"Build real solutions. Stay consistent. Focus on impact."*
+>
+> **— Rohit Pawar**
 
 </div>
+
+---
+
+<!-- ================= SNAKE CONTRIBUTION ================= -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:06B6D4" />
 ```
+
+---
+
+## ✨ Why Recruiters Will Love This Profile
+
+* 🎨 Premium, modern visual design
+* ⚡ Animated hero section and typing text
+* 📊 Rich GitHub analytics and contribution graph
+* 🚀 Clear showcase of your flagship project
+* 🏆 Achievements and leadership prominently displayed
+* 💼 Explicit internship availability
+* 📱 Mobile-friendly and clean layout
+
+---
+
+## 🛠️ Recommended Next Steps
+
+1. Create a repository named **`RohitPawar2707`**.
+2. Replace its `README.md` with the code above.
+3. Commit and push the changes.
+4. Wait 1–2 minutes for GitHub to render everything.
+
+---
+
+## 🌟 Optional Upgrades
+
+I can also help you create:
+
+* 🎨 A custom banner image with your photo
+* 🌐 Personal portfolio website
+* 📄 ATS-friendly resume
+* 🐍 Automated snake animation workflow
+* 📊 Dynamic blog and LeetCode sections
