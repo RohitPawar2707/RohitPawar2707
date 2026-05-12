@@ -1,120 +1,48 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">Rohit Pawar</h1>
-<p align="center">Software Developer • React Native • Backend</p>
+<!-- ========================================= -->
+<!--                HEADER                    -->
+<!-- ========================================= -->
+
+<h1 align="center">🇮🇳 Rohit Pawar</h1>
+<h3 align="center">
+Software Developer • React Native • Backend • Embedded Systems Enthusiast
+</h3>
 
 <p align="center">
-  <a href="mailto:rohitpawar7058@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">LinkedIn</a> •
-  <a href="https://github.com/RohitPawar2707">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&width=900&lines=Building+Technology+for+Real-World+Impact;React+Native+Developer;Backend+Engineer;Future+Semiconductor+Engineer;Proud+Indian+Developer+🇮🇳" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-- Electronics & Computer Engineering student  
-- Software Developer (Mobile + Backend)  
-- Building scalable, real-world applications  
-- Smart India Hackathon Finalist  
-
-> Focused on clean architecture, performance, and problem-solving  
-
----
-
-## ⚙️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,firebase,postgres,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Project  
-
-### 🩺 MEDIMATE – Smart Medicine Reminder System  
-
-- Cross-platform mobile app using **React Native**  
-- Intelligent notification system with fail-safe reminders  
-- Hardware integration (**ESP8266 + Firebase**)  
-- Designed for real-world healthcare reliability  
-
-🔗 [View Project](https://github.com/RohitPawar2707/MedimateApp)
-
----
-
-## 📌 Projects  
-
-### 💰 SpendX – Personal Finance Tracker  
-- Secure authentication with **Row-Level Security (RLS)**  
-- Expense tracking dashboard and analytics  
-- Backend with **Supabase + PostgreSQL**  
-
-### 🔤 AksharSetu – Transliteration System  
-- Built using **Flutter + Tesseract OCR**  
-- Extracts text from real-world images  
-- Developed during Smart India Hackathon  
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&hide_title=true&hide_border=true&theme=github_dark" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=RohitPawar2707&theme=github-dark&hide_border=true" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&hide_border=true&theme=github_dark" height="140"/>
-</p>
-
----
-
-## 📈 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-- 🥇 Smart India Hackathon Finalist  
-- 👨‍💻 Core Team Member – GDG Nashik  
-- 🎯 Secretary – SVIT Nashik  
-- 👥 President – EC Department  
-
----
-
-## 🤝 Connect  
 
 <p align="center">
   <a href="mailto:rohitpawar7058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RohitPawar2707">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Open to internships and software development opportunities</b>
+  <img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=for-the-badge&color=FF9933" />
 </p>
 
 ---
 
-## ⚡ Philosophy  
+## 🧑‍💻 About Me
 
-<p align="center">
-  <i>“Build real solutions. Stay consistent. Focus on impact.”</i>
-</p>
-
-<p align="center">
-  <sub>— Rohit Pawar</sub>
-</p>
-
----
+```yaml
+Name: Rohit Pawar
+Location: Maharashtra, India 🇮🇳
+Education: B.E. Electronics & Computer Engineering
+Focus:
+  - Mobile App Development
+  - Backend Systems
+  - Embedded Systems
+  - Semiconductor Technology
+Achievements:
+  - Smart India Hackathon Finalist 🏆
+  - GDG Nashik Core Team Member
+  - Secretary, SVIT Nashik
+  - EC Department President
+Career Goal: Build impactful products and work in top global technology companies
