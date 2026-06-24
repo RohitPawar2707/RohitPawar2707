@@ -1,288 +1,172 @@
-# 🚀 Ultra Premium GitHub Profile README for Rohit Pawar
-
-Copy the entire code below into the `README.md` file of your special repository named `RohitPawar2707`.
-
----
-
-````markdown
 <div align="center">
 
-<!-- ================= HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Rohit%20Pawar&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20•%20React%20Native%20•%20Backend%20Engineer&descAlignY=60&descSize=22" />
+# Hi, I'm Rohit Pawar 👋
 
-<!-- ================= TYPING ANIMATION ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Real-World+Software+Solutions;React+Native+%7C+Node.js+%7C+PostgreSQL;Smart+India+Hackathon+Finalist;Electronics+%26+Computer+Engineering+Student;Open+to+Internships+and+Software+Roles" />
+### Full-Stack Developer | React Native Developer | Backend Engineer
 
-<br/><br/>
-
-<!-- ================= CONTACT BADGES ================= -->
-<a href="mailto:rohitpawar7058@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/RohitPawar2707">
-  <img src="https://img.shields.io/badge/GitHub-RohitPawar2707-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RohitPawar2707&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/RohitPawar2707?style=for-the-badge&color=10B981&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/RohitPawar2707?style=for-the-badge&color=F59E0B&labelColor=111827" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```yaml
-Name: Rohit Pawar
-Location: Maharashtra, India
-Education: B.E. in Electronics & Computer Engineering
-Role: Software Developer (Mobile + Backend)
-
-Focus Areas:
-  - React Native Development
-  - Backend Engineering
-  - PostgreSQL & Supabase
-  - Embedded Systems
-  - Semiconductor Technology
-
-Achievements:
-  - Smart India Hackathon Finalist
-  - GDG Nashik Core Team Member
-  - Secretary, SVIT Nashik
-  - President, EC Department
-
-Philosophy: "Build real solutions. Stay consistent. Focus on impact."
-````
-
-* 🚀 Building scalable mobile and backend applications
-* 🧠 Passionate about clean architecture and performance
-* 🔬 Interested in embedded systems and semiconductor engineering
-* 💼 Open to internships and software development opportunities
-
-<br clear="right" />
-
----
-
-# ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,supabase,postgres,c,cpp,git,github,vscode,expo,flutter&perline=5" />
-
-</div>
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-## 🩺 MediMate — Smart Medicine Reminder System
+Final-year Electronics & Computer Engineering student passionate about building scalable web applications, mobile apps, and backend systems.
 
 <p>
-  <a href="https://github.com/RohitPawar2707/MedimateApp">
-    <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:rohitpawar7058@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/github/stars/RohitPawar2707/MedimateApp?style=for-the-badge&color=10B981" />
+  <a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RohitPawar2707">
+    <img src="https://img.shields.io/badge/GitHub-RohitPawar2707-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
-```text
-┌───────────────────────────────────────────────────────────────┐
-│ 🏥 MEDIMATE — Smart Healthcare Reliability Platform          │
-├───────────────────────────────────────────────────────────────┤
-│ 📱 React Native mobile application                           │
-│ 🔔 Intelligent medicine reminder system                      │
-│ 🔌 ESP8266 + Firebase hardware integration                   │
-│ 👨‍👩‍👧 Caregiver notifications                                │
-│ 🌐 OpenFDA drug interaction integration                      │
-│ 🔒 Secure and offline-first architecture                     │
-└───────────────────────────────────────────────────────────────┘
-```
+---
+
+## 🚀 About Me
+
+* 💻 Full-Stack Web Developer
+* 📱 React Native Mobile App Developer
+* ⚙️ Backend Developer using Node.js & Express
+* 🗄️ PostgreSQL, Supabase & Firebase Enthusiast
+* 🔬 Interested in Embedded Systems & Semiconductor Technology
+* 🏆 Smart India Hackathon Finalist
+* 👨‍💻 GDG Nashik Core Team Member
+* 💼 Open to Software Development Internships & Full-Time Opportunities
 
 ---
 
-# 📌 Other Projects
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Frontend
 
-## 💰 SpendX
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
-**Personal Finance Tracker**
+### Mobile
 
-* 🔐 Secure authentication with Row-Level Security (RLS)
-* 📊 Expense dashboard and analytics
-* 🗄️ Built with Supabase + PostgreSQL
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+### Backend
 
-## 🔤 AksharSetu
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
 
-**OCR-Based Transliteration System**
+### Database
 
-* 📸 Extracts text from real-world images
-* 🤖 Built with Flutter + Tesseract OCR
-* 🏆 Developed during Smart India Hackathon
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
-</td>
-</tr>
-</table>
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+## 🌟 Featured Projects
+
+### 🩺 MediMate
+
+Smart Healthcare & Medicine Reminder Platform
+
+**Tech Stack:** React Native, Firebase, ESP8266
+
+* Intelligent medicine reminders
+* Caregiver notifications
+* OpenFDA integration
+* Offline-first architecture
+
+🔗 Repository:
+https://github.com/RohitPawar2707/MedimateApp
+
+---
+
+### 💰 SpendX
+
+Personal Finance Management Platform
+
+**Tech Stack:** React, Supabase, PostgreSQL
+
+* Expense tracking
+* Budget management
+* Financial analytics dashboard
+* Secure authentication & authorization
+
+---
+
+### 🔤 AksharSetu
+
+OCR-Based Transliteration Platform
+
+**Tech Stack:** Flutter, Tesseract OCR
+
+* Text extraction from images
+* Multi-language support
+* Smart India Hackathon Project
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Smart India Hackathon Finalist
+* 👨‍💻 GDG Nashik Core Team Member
+* 🎯 Secretary, SVIT Nashik
+* 👥 President, EC Department
+* 🚴 Completed 115 KM Endurance Cycling Ride
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitPawar2707&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohitPawar2707&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPawar2707&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🎯 Current Focus
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitPawar2707&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RohitPawar2707&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+* Advanced React Native Development
+* Full-Stack Web Applications
+* Backend System Design
+* PostgreSQL Optimization
+* Embedded Systems
+* Software Engineering Best Practices
 
 ---
 
-# 🏅 Achievements & Leadership
+## 📫 Connect With Me
 
-| Achievement                       | Description                                    |
-| --------------------------------- | ---------------------------------------------- |
-| 🥇 Smart India Hackathon Finalist | National-level innovation competition finalist |
-| 👨‍💻 GDG Nashik Core Team Member | Organized and contributed to developer events  |
-| 🎯 Secretary – SVIT Nashik        | Student leadership and event management        |
-| 👥 President – EC Department      | Led department-level student activities        |
-| 🚴 Endurance Cyclist              | Completed 115 km cycling ride                  |
+📧 Email: **[rohitpawar7058@gmail.com](mailto:rohitpawar7058@gmail.com)**
+
+💼 LinkedIn: **https://www.linkedin.com/in/rohit-pawar-969112277/**
+
+🐙 GitHub: **https://github.com/RohitPawar2707**
 
 ---
 
-# 🎯 2026 Goals
+## 💡 Quote
 
-* 🚀 Build production-ready full-stack applications
-* 📱 Master advanced React Native architecture
-* ☁️ Strengthen backend engineering skills
-* 🔌 Deepen embedded systems expertise
-* 🏭 Explore semiconductor and VLSI design
-* 💼 Secure top internship opportunities
+> "Build real solutions. Stay consistent. Focus on impact."
 
 ---
-
-# 🌱 Currently Learning
-
-```text
-React Native Advanced Patterns
-Node.js API Development
-PostgreSQL & Supabase
-Verilog HDL
-Embedded Systems
-System Design Fundamentals
-```
-
----
-
-# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:rohitpawar7058@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rohit-pawar-969112277/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/RohitPawar2707">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 💼 Open to Internship and Software Development Opportunities
+### Thanks for visiting my profile! 🚀
 
 </div>
-
----
-
-# ⚡ Quote
-
-<div align="center">
-
-> *"Build real solutions. Stay consistent. Focus on impact."*
->
-> **— Rohit Pawar**
-
-</div>
-
----
-
-<!-- ================= SNAKE CONTRIBUTION ================= -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- ================= FOOTER ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:06B6D4" />
-```
-
----
-
-## ✨ Why Recruiters Will Love This Profile
-
-* 🎨 Premium, modern visual design
-* ⚡ Animated hero section and typing text
-* 📊 Rich GitHub analytics and contribution graph
-* 🚀 Clear showcase of your flagship project
-* 🏆 Achievements and leadership prominently displayed
-* 💼 Explicit internship availability
-* 📱 Mobile-friendly and clean layout
-
----
-
-## 🛠️ Recommended Next Steps
-
-1. Create a repository named **`RohitPawar2707`**.
-2. Replace its `README.md` with the code above.
-3. Commit and push the changes.
-4. Wait 1–2 minutes for GitHub to render everything.
-
----
-
-## 🌟 Optional Upgrades
-
-I can also help you create:
-
-* 🎨 A custom banner image with your photo
-* 🌐 Personal portfolio website
-* 📄 ATS-friendly resume
-* 🐍 Automated snake animation workflow
-* 📊 Dynamic blog and LeetCode sections
